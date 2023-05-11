@@ -9,4 +9,3 @@ public class Footballteam {
 		System.out.println(이름+"선수 공을 전달했습니다.");
 	} 
 }
-
