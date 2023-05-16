@@ -8,3 +8,5 @@ public class HYCU extends 대한민국{
 		System.out.println(a+"*"+b+"="+a*b+"입니다.");
 	}
 }
+
+// 상속은 재사용성을 높여준다. 
